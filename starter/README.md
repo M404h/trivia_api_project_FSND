@@ -54,7 +54,7 @@ By making notes ahead of time, you will practice the core skill of being able to
 https://www.fullstackpython.com/flask-json-jsonify-examples.html
 ```
 
-2. **getn json in post new question**
+2. **get json in post new question**
 ```
 https://stackoverflow.com/questions/20001229/how-to-get-posted-json-in-flask
 ```
