@@ -15,11 +15,6 @@ That's where you come in! Help them finish the trivia app so they can start hold
 
 Completing this trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others.
 
-## Starting and Submitting the Project
-
-[Fork](https://help.github.com/en/articles/fork-a-repo) the [project repository](https://github.com/udacity/FSND/blob/master/projects/02_trivia_api/starter) and [Clone](https://help.github.com/en/articles/cloning-a-repository) your forked repository to your machine. Work on the project locally and make sure to push all your changes to the remote repository before submitting the link to your repository in the Classroom.
->Once you're ready, you can submit your project on the last page.
-
 ## About the Stack
 
 We started the full stack application for you. It is designed with some key functional areas:
@@ -50,3 +45,11 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 
 >View the [README within ./frontend for more details.](./frontend/README.md)
+
+
+## Additional Learning resources
+
+1. **more about jsonify**
+```
+https://www.fullstackpython.com/flask-json-jsonify-examples.html
+```
